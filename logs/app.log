@@ -1,0 +1,36 @@
+2026-07-11 03:19:20 — [INFO] === Inicio de análisis de equipo ===
+2026-07-11 03:19:20 — [WARNING] Fila 3 ("slowbro"): rol "Soporte-Ofensivo" no reconocido — usando "Mixto"
+2026-07-11 03:19:20 — [WARNING] Fila 5 ("garchomp"): IV de spd=35 fuera de rango 0-31
+2026-07-11 03:19:20 — [INFO] Archivo "equipo_ejemplo.csv" cargado correctamente (6 Pokémon)
+2026-07-11 03:19:20 — [INFO] Cache hit: datos de "charizard" cargados desde cache local
+2026-07-11 03:19:20 — [INFO] "charizard" analizado — rol: Atacante, calificación IVs: Excelente
+2026-07-11 03:19:20 — [INFO] Cache hit: datos de "gyarados" cargados desde cache local
+2026-07-11 03:19:20 — [INFO] "gyarados" analizado — rol: Mixto, calificación IVs: Buena
+2026-07-11 03:19:20 — [INFO] Cache miss: consultando PokéAPI para "slowbro"
+2026-07-11 03:19:21 — [ERROR] No se pudo conectar a PokéAPI para "slowbro": 403 Client Error: Forbidden for url: https://pokeapi.co/api/v2/pokemon/slowbro
+2026-07-11 03:19:21 — [WARNING] Se omite "slowbro" del análisis por falta de datos de PokéAPI
+2026-07-11 03:19:21 — [INFO] Cache hit: datos de "ferrothorn" cargados desde cache local
+2026-07-11 03:19:21 — [INFO] "ferrothorn" analizado — rol: Defensor, calificación IVs: Excelente
+2026-07-11 03:19:21 — [INFO] Cache hit: datos de "garchomp" cargados desde cache local
+2026-07-11 03:19:21 — [INFO] "garchomp" analizado — rol: Atacante, calificación IVs: Buena
+2026-07-11 03:19:21 — [INFO] Cache hit: datos de "togekiss" cargados desde cache local
+2026-07-11 03:19:21 — [INFO] "togekiss" analizado — rol: Soporte, calificación IVs: Buena
+2026-07-11 03:19:21 — [INFO] === Fin de análisis de equipo ===
+2026-07-10 21:59:17 — [INFO] === Inicio de análisis de equipo ===
+2026-07-10 21:59:17 — [WARNING] Fila 3 ("slowbro"): rol "Soporte-Ofensivo" no reconocido — usando "Mixto"
+2026-07-10 21:59:17 — [WARNING] Fila 5 ("garchomp"): IV de spd=35 fuera de rango 0-31
+2026-07-10 21:59:17 — [INFO] Archivo "equipo_ejemplo.csv" cargado correctamente (6 Pokémon)
+2026-07-10 21:59:17 — [INFO] Cache hit: datos de "charizard" cargados desde cache local
+2026-07-10 21:59:17 — [INFO] "charizard" analizado — rol: Atacante, calificación IVs: Excelente
+2026-07-10 21:59:17 — [INFO] Cache hit: datos de "gyarados" cargados desde cache local
+2026-07-10 21:59:17 — [INFO] "gyarados" analizado — rol: Mixto, calificación IVs: Buena
+2026-07-10 21:59:17 — [INFO] Cache miss: consultando PokéAPI para "slowbro"
+2026-07-10 21:59:17 — [INFO] "slowbro" guardado en cache local
+2026-07-10 21:59:17 — [INFO] "slowbro" analizado — rol: Mixto, calificación IVs: Buena
+2026-07-10 21:59:17 — [INFO] Cache hit: datos de "ferrothorn" cargados desde cache local
+2026-07-10 21:59:17 — [INFO] "ferrothorn" analizado — rol: Defensor, calificación IVs: Excelente
+2026-07-10 21:59:17 — [INFO] Cache hit: datos de "garchomp" cargados desde cache local
+2026-07-10 21:59:17 — [INFO] "garchomp" analizado — rol: Atacante, calificación IVs: Buena
+2026-07-10 21:59:17 — [INFO] Cache hit: datos de "togekiss" cargados desde cache local
+2026-07-10 21:59:17 — [INFO] "togekiss" analizado — rol: Soporte, calificación IVs: Buena
+2026-07-10 21:59:17 — [INFO] === Fin de análisis de equipo ===
