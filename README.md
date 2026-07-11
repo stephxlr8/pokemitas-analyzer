@@ -4,8 +4,7 @@
 
 
 
-Versión mínima funcional (CLI, sin GUI todavía) basada en tu propio pseudocódigo
-del apéndice, con logging real integrado para la tarea de file management / error handling.
+'Versión mínima funcional'
 
 ## Archivos
 - `logger_config.py` — configura el logger, crea `/logs/app.log` automáticamente.
