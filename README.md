@@ -1,4 +1,4 @@
-# Pokemitas Analyzer — MVP con logging
+# Pokemitas Analyzer
 
 <img width="728" height="410" alt="image" src="https://github.com/user-attachments/assets/32835c64-0b4f-489c-aed1-ed437b822c7b" />
 
