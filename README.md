@@ -1,5 +1,9 @@
 # Pokemitas Analyzer — MVP con logging
 
+<img width="728" height="410" alt="image" src="https://github.com/user-attachments/assets/32835c64-0b4f-489c-aed1-ed437b822c7b" />
+
+
+
 Versión mínima funcional (CLI, sin GUI todavía) basada en tu propio pseudocódigo
 del apéndice, con logging real integrado para la tarea de file management / error handling.
 
