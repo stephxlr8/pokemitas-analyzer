@@ -22,16 +22,6 @@ python pokemitas_mvp.py equipo_ejemplo.csv
 
 Cada corrida agrega líneas nuevas a `logs/app.log` (no lo borra).
 
-## Antes de subirlo a GitHub
-Revisa tu `.gitignore` — si tiene una línea `logs/` o `*.log`, bórrala o el commit
-no va a incluir la carpeta.
-
-```bash
-git add .
-git commit -m "Add logging module and MVP core logic"
-git push
-```
-
 ## Qué loggea y por qué
 INFO para cargas de archivo, hits de cache y resultados de análisis por Pokémon;
 WARNING para datos dudosos (rol no reconocido, IV fuera de rango) que no detienen
